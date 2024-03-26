@@ -1,0 +1,29 @@
+body{
+    margin: 0px;
+    text-align: center;
+}
+h1{
+    width: 30%;
+    margin:0 auto 0 auto;
+    font-family: "Sacramento", cursive,sans-serif;
+    font-size: 50px;;
+}
+img{
+    height: auto;
+    width: 1200px;
+    opacity: 90%;
+}
+.top-container{
+    background-color: #E4F9F5;
+}
+.red{
+    background-color: lightcoral;
+    height: 200px;
+    width: 200px;
+    
+}
+.blue{
+    background-color:rgb(92, 206, 206);
+    height: 200px;
+    width: 200px;
+}
