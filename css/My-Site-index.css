@@ -1,6 +1,7 @@
 body{
     margin: 0px;
     text-align: center;
+    background-color: #ECF0F9;
 }
 h1{
     width: 30%;
@@ -10,20 +11,16 @@ h1{
 }
 img{
     height: auto;
-    width: 1200px;
+    width: 100%;
     opacity: 90%;
 }
-.top-container{
-    background-color: #E4F9F5;
+.name-description{
+    position: relative;
+    padding-top: 100px;
 }
-.red{
-    background-color: lightcoral;
-    height: 200px;
-    width: 200px;
-    
-}
-.blue{
-    background-color:rgb(92, 206, 206);
-    height: 200px;
-    width: 200px;
+.profile-photo{
+    height: 400px;
+    width: 400px;
+    border-radius: 100%;
+    padding-right: 20px;
 }
