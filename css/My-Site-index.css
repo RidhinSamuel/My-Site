@@ -1,7 +1,7 @@
 body{
     margin: 0px;
     text-align: center;
-    background-color: #ECF0F9;
+    background-color: #ffffff;
 }
 h1{
     width: 30%;
@@ -14,13 +14,33 @@ img{
     width: 100%;
     opacity: 90%;
 }
+hr{
+    width: 45%;
+    border-style: none;
+    border-top-style: dotted;
+    border-color:grey;
+    border-width: 7px;
+}
 .name-description{
     position: relative;
     padding-top: 100px;
 }
 .profile-photo{
-    height: 400px;
-    width: 400px;
+    height: 300px;
+    width: 300px;
     border-radius: 100%;
-    padding-right: 20px;
+}
+.c-gif{
+    height: 300px;
+    width: 300px;
+    border-radius: 100%;
+    object-fit:fill;
+    background-color: black;
+}
+.python-gif{
+    height: 300px;
+    width: 300px;
+    border-radius: 100%;
+    object-fit:cover;
+    background-color: black;
 }
