@@ -56,3 +56,7 @@ hr{
     border-radius: 100%;
     object-fit:cover;
 }
+.footer-link{
+    font-size: 40px;
+    color:#101419;
+}
