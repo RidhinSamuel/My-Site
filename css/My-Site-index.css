@@ -1,7 +1,8 @@
 body{
     margin: 0px;
     text-align: center;
-    background-color: #11999e37;
+    /* background-color: #11999e37; */
+    background-color: white;
     font-family: "Montserrat", sans-serif;
 }
 h1{
@@ -44,7 +45,6 @@ hr{
     
 }
 .name-description .profile p{
-    width :120%;
     margin: 0 auto 0 auto;
     text-align: justify;
     line-height: 2;
@@ -55,6 +55,7 @@ hr{
     border-radius: 100%;
     float:left;
     margin-right: 30px;
+    margin-bottom: 7px;
 }
 .profile  h2{
     padding-right: 1120px;
@@ -97,9 +98,14 @@ hr{
 .footer-link{
     font-size: 40px;
     color:rgba(13, 84, 86, 0.785);
+    /* color: white; */
     margin: 10px;
 }
 .bottom-container{
     padding: 20px;
     background-color: #11999e6a;
+    /* background-color: white; */
+}
+.bx-hover:hover{
+    color: rgba(255, 255, 255, 0.493);
 }
